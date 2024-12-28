@@ -28,7 +28,7 @@ export const metadata: Metadata = {
     "ESN 81",
     "3IL Limoges"
   ].join(", "),
-  authors: [{ name: "Yanis LARTIGUE", url: "https://portfolio-opal-five-44.vercel.app/" }],
+  authors: [{ name: "Yanis LARTIGUE", url: "https://portfolio-gray-phi-46.vercel.app/" }],
   creator: "Yanis LARTIGUE",
   publisher: "Yanis LARTIGUE",
   robots: {
@@ -45,7 +45,7 @@ export const metadata: Metadata = {
   openGraph: {
     type: "website",
     locale: "fr_FR",
-    url: "https://portfolio-opal-five-44.vercel.app/",
+    url: "https://portfolio-gray-phi-46.vercel.app/",
     title: "Yanis LARTIGUE | Développeur Web Full Stack",
     description: "Portfolio de Yanis LARTIGUE, développeur web full stack passionné par les nouvelles technologies. Découvrez mes projets et compétences en développement web.",
     siteName: "Portfolio Yanis LARTIGUE",
@@ -66,10 +66,10 @@ export const metadata: Metadata = {
     creator: "@YanisLartigue",
   },
   alternates: {
-    canonical: "https://portfolio-opal-five-44.vercel.app/",
+    canonical: "https://portfolio-gray-phi-46.vercel.app/",
     languages: {
-      'fr': 'https://portfolio-opal-five-44.vercel.app/fr',
-      'en': 'https://portfolio-opal-five-44.vercel.app/en',
+      'fr': 'https://portfolio-gray-phi-46.vercel.app/fr',
+      'en': 'https://portfolio-gray-phi-46.vercel.app/en',
     },
   },
   verification: {
@@ -94,8 +94,8 @@ export default function RootLayout({
               "@type": "Person",
               "name": "Yanis LARTIGUE",
               "jobTitle": "Développeur Web Full Stack",
-              "url": "https://portfolio-opal-five-44.vercel.app/",
-              "image": "https://portfolio-opal-five-44.vercel.app/avatar/photo_de_profil.jpg",
+              "url": "https://portfolio-gray-phi-46.vercel.app/",
+              "image": "https://portfolio-gray-phi-46.vercel.app/avatar/photo_de_profil.jpg",
               "description": "Développeur web full stack passionné par les nouvelles technologies",
               "alumniOf": [
                 {
