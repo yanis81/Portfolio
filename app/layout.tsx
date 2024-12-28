@@ -28,7 +28,7 @@ export const metadata: Metadata = {
     "ESN 81",
     "3IL Limoges"
   ].join(", "),
-  authors: [{ name: "Yanis LARTIGUE", url: "https://portfolio-gray-phi-46.vercel.app/" }],
+  authors: [{ name: "Yanis LARTIGUE", url: process.env.NEXT_PUBLIC_SITE_URL }],
   creator: "Yanis LARTIGUE",
   publisher: "Yanis LARTIGUE",
   robots: {
@@ -45,7 +45,7 @@ export const metadata: Metadata = {
   openGraph: {
     type: "website",
     locale: "fr_FR",
-    url: "https://portfolio-gray-phi-46.vercel.app/",
+    url: process.env.NEXT_PUBLIC_SITE_URL,
     title: "Yanis LARTIGUE | Développeur Web Full Stack",
     description: "Portfolio de Yanis LARTIGUE, développeur web full stack passionné par les nouvelles technologies. Découvrez mes projets et compétences en développement web.",
     siteName: "Portfolio Yanis LARTIGUE",
@@ -66,14 +66,14 @@ export const metadata: Metadata = {
     creator: "@YanisLartigue",
   },
   alternates: {
-    canonical: "https://portfolio-gray-phi-46.vercel.app/",
+    canonical: process.env.NEXT_PUBLIC_SITE_URL,
     languages: {
-      'fr': 'https://portfolio-gray-phi-46.vercel.app/fr',
-      'en': 'https://portfolio-gray-phi-46.vercel.app/en',
+      'fr': `${process.env.NEXT_PUBLIC_SITE_URL}/fr`,
+      'en': `${process.env.NEXT_PUBLIC_SITE_URL}/en`,
     },
   },
   verification: {
-    google: "PKXUYIXdThH7ZOYxOp2EpvsV_eG9B2GdbYARuZeTkKE",
+    google: process.env.GOOGLE_SITE_VERIFICATION,
   },
 };
 
@@ -85,7 +85,7 @@ export default function RootLayout({
   return (
     <html lang="fr" className="dark" suppressHydrationWarning>
       <head>
-        <meta name="google-site-verification" content="PKXUYIXdThH7ZOYxOp2EpvsV_eG9B2GdbYARuZeTkKE" />
+        <meta name="google-site-verification" content={process.env.GOOGLE_SITE_VERIFICATION} />
         <script
           type="application/ld+json"
           dangerouslySetInnerHTML={{
@@ -94,8 +94,8 @@ export default function RootLayout({
               "@type": "Person",
               "name": "Yanis LARTIGUE",
               "jobTitle": "Développeur Web Full Stack",
-              "url": "https://portfolio-gray-phi-46.vercel.app/",
-              "image": "https://portfolio-gray-phi-46.vercel.app/avatar/photo_de_profil.jpg",
+              "url": process.env.NEXT_PUBLIC_SITE_URL,
+              "image": `${process.env.NEXT_PUBLIC_SITE_URL}/avatar/photo_de_profil.jpg`,
               "description": "Développeur web full stack passionné par les nouvelles technologies",
               "alumniOf": [
                 {
