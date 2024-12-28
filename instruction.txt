@@ -1,0 +1,18 @@
+I'm creating my online Portoflio with Next.JS and Tailwind CSS for styling. I've chosen a modern style with futuristic animations to show my interest in the future and my passion for technology. 
+I created my website in dark mode and I'm using the following libraries :
+- Next.JS
+- Tailwind CSS
+- FontAwesome
+- Framer Motion
+- React
+- React Icons
+- React Scroll
+- React Scroll Reveal
+- React Typed
+- React Typed Hooks
+- React Reveal
+- React Reveal Hooks 
+
+
+
+
