@@ -73,6 +73,16 @@ const translations = {
     'ninaDesc': 'Débuggez et optimisez un site de photographe (SEO, Lighthouse, Debug).',
     'kasaDesc': 'Créez une application web de location immobilière avec React.',
     'grimoireDesc': 'Développez le back-end d\'un site de notation de livres (NodeJS, Express).',
+    'formationExcellence': "Une formation d'excellence pour un avenir prometteur : avec le Bachelor CSI, j'ai ouvert de nouvelles perspectives professionnelles. Bachelor CSI délivré par l'école d'ingénieur 3IL Limoges.",
+    'choixPassion': "Rejoindre OpenClassrooms, c'était le choix de la passion pour le code et de la volonté de professionnaliser mes compétences. Entrée en Septembre 2023, j'ai obtenue mon diplôme en Avril 2024.",
+    'entreeSeptembre': "Entrée en Septembre 2023, j'ai obtenue mon diplôme en Avril 2024.",
+    'debutVoyage': "Début du Voyage : La Découverte du Numérique",
+    'obtentionBAC': "✅ obtention de mon BAC STI2D",
+    'obtentionCertifications': "✅ Obtention de Certifications",
+    'participationHackathon': "✅ Participation à mon premier Hackathon",
+    'decouverteProgrammation': "✅ Découverte de la Programmation",
+    'monParcours': "Mon Parcours",
+    'chronologieFormation': "Voici une chronologie de ma Formation.",
   },
   en: {
     'my': 'My',
@@ -138,6 +148,16 @@ const translations = {
     'ninaDesc': 'Debug and optimize a photographer\'s website (SEO, Lighthouse, Debug).',
     'kasaDesc': 'Create a real estate rental web application with React.',
     'grimoireDesc': 'Develop the back-end of a book rating website (NodeJS, Express).',
+    'formationExcellence': "An excellent training for a promising future: with the Bachelor CSI, I opened new professional perspectives. Bachelor CSI awarded by the engineering school 3IL Limoges.",
+    'choixPassion': "Joining OpenClassrooms was the choice of passion for coding and the desire to professionalize my skills. Entered in September 2023, I obtained my diploma in April 2024.",
+    'entreeSeptembre': "Entered in September 2023, I obtained my diploma in April 2024.",
+    'debutVoyage': "Beginning of the Journey: Discovering Digital Technology",
+    'obtentionBAC': "✅ obtained my STI2D BAC",
+    'obtentionCertifications': "✅ Obtained Certifications",
+    'participationHackathon': "✅ Participated in my first Hackathon",
+    'decouverteProgrammation': "✅ Discovery of Programming",
+    'monParcours': "My Journey",
+    'chronologieFormation': "Here is a chronology of my Formation.",
   }
 };
 
