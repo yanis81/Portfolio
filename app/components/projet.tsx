@@ -9,6 +9,7 @@ import {
   ThreeDCardDemoP6,
   ThreeDCardDemoP7,
   ThreeDCardMangaMania,
+  ThreeDCardCalculator,
 } from "./3D_card";
 
 export function ProjetComp() {
@@ -22,6 +23,7 @@ export function ProjetComp() {
         <ThreeDCardDemoP6 />
         <ThreeDCardDemoP7 />
         <ThreeDCardMangaMania />
+        <ThreeDCardCalculator />
       </div>
     </section>
   );
