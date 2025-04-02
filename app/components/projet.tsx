@@ -8,6 +8,7 @@ import {
   ThreeDCardDemoP5,
   ThreeDCardDemoP6,
   ThreeDCardDemoP7,
+  ThreeDCardMangaMania,
 } from "./3D_card";
 
 export function ProjetComp() {
@@ -20,6 +21,7 @@ export function ProjetComp() {
         <ThreeDCardDemoP5 />
         <ThreeDCardDemoP6 />
         <ThreeDCardDemoP7 />
+        <ThreeDCardMangaMania />
       </div>
     </section>
   );
