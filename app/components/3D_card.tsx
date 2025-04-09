@@ -32,7 +32,7 @@ export function ThreeDCardDemoP2() {
             src={`/imageProjet/P2.png`}
             height="1000"
             width="1000"
-            className="h-60 w-full object-cover rounded-xl group-hover/card:shadow-xl"
+            className="h-60 object-cover rounded-xl group-hover/card:shadow-xl"
             alt="image du site Booki"
           />
         </CardItem>
@@ -92,7 +92,7 @@ export function ThreeDCardDemoP3() {
             src={`/imageProjet/P3.png`}
             height="1000"
             width="1000"
-            className="h-60 w-full object-cover rounded-xl group-hover/card:shadow-xl"
+            className="h-60 object-cover rounded-xl group-hover/card:shadow-xl"
             alt="image du site Sophie Bluel"
           />
         </CardItem>
@@ -152,7 +152,7 @@ export function ThreeDCardDemoP4() {
             src={`/imageProjet/P4.png`}
             height="1000"
             width="1000"
-            className="h-60 w-full object-cover rounded-xl group-hover/card:shadow-xl"
+            className="h-60 object-cover rounded-xl group-hover/card:shadow-xl"
             alt="image du site Menu Maker by Qwenta"
           />
         </CardItem>
@@ -202,7 +202,7 @@ export function ThreeDCardDemoP5() {
             src={`/imageProjet/P5.png`}
             height="1000"
             width="1000"
-            className="h-60 w-full object-cover rounded-xl group-hover/card:shadow-xl"
+            className="h-60 object-cover rounded-xl group-hover/card:shadow-xl"
             alt="image du site Nina Carducci"
           />
         </CardItem>
@@ -262,7 +262,7 @@ export function ThreeDCardDemoP6() {
             src={`/imageProjet/P6.png`}
             height="1000"
             width="1000"
-            className="h-60 w-full object-cover rounded-xl group-hover/card:shadow-xl"
+            className="h-60 object-cover rounded-xl group-hover/card:shadow-xl"
             alt="image du site Kasa"
           />
         </CardItem>
@@ -322,7 +322,7 @@ export function ThreeDCardDemoP7() {
             src={`/imageProjet/P7.png`}
             height="1000"
             width="1000"
-            className="h-60 w-full object-cover rounded-xl group-hover/card:shadow-xl"
+            className="h-60 object-cover rounded-xl group-hover/card:shadow-xl"
             alt="image du site Mon Vieux Grimoire"
           />
         </CardItem>
@@ -372,7 +372,7 @@ export function ThreeDCardMangaMania() {
             src={`/imageProjet/mangamania.png`}
             height="1000"
             width="1000"
-            className="h-60 w-full object-cover rounded-xl group-hover/card:shadow-xl"
+            className="h-60 object-cover rounded-xl group-hover/card:shadow-xl"
             alt="image du site Manga Mania"
           />
         </CardItem>
@@ -421,7 +421,7 @@ export function ThreeDCardCalculator() {
             src={`/imageProjet/calculateur.png`}
             height="1000"
             width="1000"
-            className="h-60 w-full object-cover rounded-xl group-hover/card:shadow-xl"
+            className="h-60 object-cover rounded-xl group-hover/card:shadow-xl"
             alt="image du site Calculateur de salaire brut à net"
           />
         </CardItem>

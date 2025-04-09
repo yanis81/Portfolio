@@ -90,6 +90,7 @@ export default function RootLayout({
     <html lang="fr" className="dark" suppressHydrationWarning>
       <head>
         <meta name="google-site-verification" content={process.env.GOOGLE_SITE_VERIFICATION} />
+        <meta name="viewport" content="width=device-width, initial-scale=1.0, maximum-scale=1.0, user-scalable=no" />
         <script
           type="application/ld+json"
           dangerouslySetInnerHTML={{
@@ -116,9 +117,9 @@ export default function RootLayout({
           }}
         />
       </head>
-      <body className={roboto.className}>
+      <body className={`${roboto.className} overflow-x-hidden`}>
         <LanguageProvider>
-          <div className="relative">
+          <div className="relative overflow-hidden max-w-[100vw]">
             <ThemeToggle />
             <LanguageToggle />
             {children}
