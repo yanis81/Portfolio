@@ -23,7 +23,7 @@ export function Ipad() {
           }
         >
           <Image
-            src={`/presentationImage/allP.png`}
+            src={`/presentationImage/allP.webp`}
             alt="Aperçu de mes projets de développement web"
             height={720}
             width={1400}

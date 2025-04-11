@@ -29,7 +29,7 @@ export function ThreeDCardDemoP2() {
         </CardItem>
         <CardItem translateZ="100" className="w-full mt-4">
           <Image
-            src={`/imageProjet/P2.png`}
+            src={`/imageProjet/P2.webp`}
             height="1000"
             width="1000"
             className="h-60 object-cover rounded-xl group-hover/card:shadow-xl"
@@ -89,7 +89,7 @@ export function ThreeDCardDemoP3() {
         </CardItem>
         <CardItem translateZ="100" className="w-full mt-4">
           <Image
-            src={`/imageProjet/P3.png`}
+            src={`/imageProjet/P3.webp`}
             height="1000"
             width="1000"
             className="h-60 object-cover rounded-xl group-hover/card:shadow-xl"
@@ -149,7 +149,7 @@ export function ThreeDCardDemoP4() {
         </CardItem>
         <CardItem translateZ="100" className="w-full mt-4">
           <Image
-            src={`/imageProjet/P4.png`}
+            src={`/imageProjet/P4.webp`}
             height="1000"
             width="1000"
             className="h-60 object-cover rounded-xl group-hover/card:shadow-xl"
@@ -199,7 +199,7 @@ export function ThreeDCardDemoP5() {
         </CardItem>
         <CardItem translateZ="100" className="w-full mt-4">
           <Image
-            src={`/imageProjet/P5.png`}
+            src={`/imageProjet/P5.webp`}
             height="1000"
             width="1000"
             className="h-60 object-cover rounded-xl group-hover/card:shadow-xl"
@@ -259,7 +259,7 @@ export function ThreeDCardDemoP6() {
         </CardItem>
         <CardItem translateZ="100" className="w-full mt-4">
           <Image
-            src={`/imageProjet/P6.png`}
+            src={`/imageProjet/P6.webp`}
             height="1000"
             width="1000"
             className="h-60 object-cover rounded-xl group-hover/card:shadow-xl"
@@ -319,7 +319,7 @@ export function ThreeDCardDemoP7() {
         </CardItem>
         <CardItem translateZ="100" className="w-full mt-4">
           <Image
-            src={`/imageProjet/P7.png`}
+            src={`/imageProjet/P7.webp`}
             height="1000"
             width="1000"
             className="h-60 object-cover rounded-xl group-hover/card:shadow-xl"
@@ -369,7 +369,7 @@ export function ThreeDCardMangaMania() {
         </CardItem>
         <CardItem translateZ="100" className="w-full mt-4">
           <Image
-            src={`/imageProjet/mangamania.png`}
+            src={`/imageProjet/mangamania.webp`}
             height="1000"
             width="1000"
             className="h-60 object-cover rounded-xl group-hover/card:shadow-xl"
@@ -418,7 +418,7 @@ export function ThreeDCardCalculator() {
         </CardItem>
         <CardItem translateZ="100" className="w-full mt-4">
           <Image
-            src={`/imageProjet/calculateur.png`}
+            src={`/imageProjet/calculateur.webp`}
             height="1000"
             width="1000"
             className="h-60 object-cover rounded-xl group-hover/card:shadow-xl"

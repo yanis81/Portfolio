@@ -17,14 +17,14 @@ export function TimelineParcour() {
           </p>
           <div className="grid grid-cols-2 gap-4">
             <Image
-              src={'/imageTimeline/Logo-ESN81.webp'}
+              src={'/imageTimeline/Logo-ESN811.webp'}
               alt="logo de l'ecole superieure du numerique"
               width={500}
               height={500}
               className="rounded-lg h-20 md:h-44 lg:h-60 w-full shadow-[0_0_24px_rgba(34,_42,_53,_0.06),_0_1px_1px_rgba(0,_0,_0,_0.05),_0_0_0_1px_rgba(34,_42,_53,_0.04),_0_0_4px_rgba(34,_42,_53,_0.08),_0_16px_68px_rgba(47,_48,_55,_0.05),_0_1px_0_rgba(255,_255,_255,_0.1)_inset]"
             />
             <Image
-              src={'/imageTimeline/3IL1.webp'}
+              src={'/imageTimeline/3IL12.webp'}
               alt="image du logo de l'ESN"
               width={500}
               height={500}
@@ -46,14 +46,14 @@ export function TimelineParcour() {
           </p>
           <div className="grid grid-cols-2 gap-4">
             <Image
-              src={'/imageTimeline/OC_logo1.webp'}
+              src={'/imageTimeline/OC_logo12.webp'}
               alt="logo d'openclassroom"
               width={500}
               height={500}
               className="rounded-lg object-cover h-20 md:h-44 lg:h-60 w-full shadow-[0_0_24px_rgba(34,_42,_53,_0.06),_0_1px_1px_rgba(0,_0,_0,_0.05),_0_0_0_1px_rgba(34,_42,_53,_0.04),_0_0_4px_rgba(34,_42,_53,_0.08),_0_16px_68px_rgba(47,_48,_55,_0.05),_0_1px_0_rgba(255,_255,_255,_0.1)_inset]"
             />
             <Image
-              src={'/imageTimeline/OC_logo2.webp'}
+              src={'/imageTimeline/OC_logo23.webp'}
               alt="image du logo d'openclassroom"
               width={500}
               height={500}
@@ -86,14 +86,14 @@ export function TimelineParcour() {
           </div>
           <div className="grid grid-cols-2 gap-4">
             <Image
-              src={'/imageTimeline/debut1.webp'}
+              src={'/imageTimeline/debut12.webp'}
               alt="image de programation"
               width={500}
               height={500}
               className="rounded-lg object-cover h-20 md:h-44 lg:h-60 w-full shadow-[0_0_24px_rgba(34,_42,_53,_0.06),_0_1px_1px_rgba(0,_0,_0,_0.05),_0_0_0_1px_rgba(34,_42,_53,_0.04),_0_0_4px_rgba(34,_42,_53,_0.08),_0_16px_68px_rgba(47,_48,_55,_0.05),_0_1px_0_rgba(255,_255,_255,_0.1)_inset]"
             />
             <Image
-              src={'/imageTimeline/debut2.webp'}
+              src={'/imageTimeline/debut23.webp'}
               alt="image de programation pour apprentisage"
               width={500}
               height={500}

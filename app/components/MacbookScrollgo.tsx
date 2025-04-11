@@ -14,7 +14,7 @@ export function MacbookScrollgo() {
       >
         <MacbookScroll
           title={<span></span>}
-          src={`/presentationImage/Bienven.png`}
+          src={`/presentationImage/Bienven.webp`}
         />
       </motion.div>
     </div>
