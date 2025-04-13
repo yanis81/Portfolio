@@ -51,6 +51,7 @@ export function ThreeDCardDemoP2() {
             href="https://yanis81.github.io/Projet-n2_OC/"
             target="_blank"
             className="px-4 py-2 rounded-xl bg-black dark:bg-white dark:text-black text-white font-bold text-base"
+            alt="lien vers le site Booki"
           >
             <FontAwesomeIcon icon={faGlobe} />
           </CardItem>
