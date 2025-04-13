@@ -61,6 +61,7 @@ export function ThreeDCardDemoP2() {
             href="https://github.com/yanis81/Projet-n2_OC"
             target="_blank"
             className="px-4 py-2 rounded-xl bg-black dark:bg-white dark:text-black text-white font-bold text-base"
+            alt="lien vers le github Booki"
           >
             <FontAwesomeIcon icon={faGithub} />
           </CardItem>
@@ -112,6 +113,7 @@ export function ThreeDCardDemoP3() {
             href="https://yanis81.github.io/Projet-n3_Publi-/"
             target="_blank"
             className="px-4 py-2 rounded-xl bg-black dark:bg-white dark:text-black text-white font-bold text-base"
+            alt="lien vers le site sophie bluel"
           >
             <FontAwesomeIcon icon={faGlobe} />
           </CardItem>
@@ -121,6 +123,7 @@ export function ThreeDCardDemoP3() {
             href="https://github.com/yanis81/Projet-n3_OC"
             target="_blank"
             className="px-4 py-2 rounded-xl bg-black dark:bg-white dark:text-black text-white font-bold text-base"
+            alt="lien vers le github Booki"
           >
             <FontAwesomeIcon icon={faGithub} />
           </CardItem>
@@ -171,6 +174,7 @@ export function ThreeDCardDemoP4() {
             href="https://github.com/yanis81/Projet-n4_OC"
             target="_blank"
             className="px-4 py-2 rounded-xl bg-black dark:bg-white dark:text-black text-white font-bold text-base"
+            alt="lien vers le github de Menu Maker by Qwenta"
           >
             <FontAwesomeIcon icon={faGithub} />
           </CardItem>
@@ -222,6 +226,7 @@ export function ThreeDCardDemoP5() {
             href="https://yanis81.github.io/Projet-n5_OC/"
             target="_blank"
             className="px-4 py-2 rounded-xl bg-black dark:bg-white dark:text-black text-white font-bold text-base"
+            alt="lien vers le site Nina carducci"
           >
             <FontAwesomeIcon icon={faGlobe} />
           </CardItem>
@@ -231,6 +236,7 @@ export function ThreeDCardDemoP5() {
             href="https://github.com/yanis81/Projet-n5_OC"
             target="_blank"
             className="px-4 py-2 rounded-xl bg-black dark:bg-white dark:text-black text-white font-bold text-base"
+            alt="lien vers le github de Nina carducci"
           >
             <FontAwesomeIcon icon={faGithub} />
           </CardItem>
@@ -282,6 +288,7 @@ export function ThreeDCardDemoP6() {
             href="https://kasa-pearl.vercel.app/accueil"
             target="_blank"
             className="px-4 py-2 rounded-xl bg-black dark:bg-white dark:text-black text-white font-bold text-base"
+            alt="lien vers le site Kasa"
           >
             <FontAwesomeIcon icon={faGlobe} />
           </CardItem>
@@ -291,6 +298,7 @@ export function ThreeDCardDemoP6() {
             href="https://github.com/yanis81/Projet-n6_OC"
             target="_blank"
             className="px-4 py-2 rounded-xl bg-black dark:bg-white dark:text-black text-white font-bold text-base"
+            alt="lien vers le github de Kasa"
           >
             <FontAwesomeIcon icon={faGithub} />
           </CardItem>
@@ -341,6 +349,7 @@ export function ThreeDCardDemoP7() {
             href="https://github.com/yanis81/Projet-n7_OC"
             target="_blank"
             className="px-4 py-2 rounded-xl bg-black dark:bg-white dark:text-black text-white font-bold text-base"
+            alt="lien vers le github de mon vieux grimoire"
           >
             <FontAwesomeIcon icon={faGithub} />
           </CardItem>
@@ -391,6 +400,7 @@ export function ThreeDCardMangaMania() {
             href="https://manga-mania-theta.vercel.app/"
             target="_blank"
             className="px-4 py-2 rounded-xl bg-black dark:bg-white dark:text-black text-white font-bold text-base"
+            alt="lien vers le site MangaMania"
           >
             <FontAwesomeIcon icon={faGlobe} />
           </CardItem>
@@ -440,6 +450,7 @@ export function ThreeDCardCalculator() {
             href="https://salaire-brut-en-net.vercel.app/"
             target="_blank"
             className="px-4 py-2 rounded-xl bg-black dark:bg-white dark:text-black text-white font-bold text-base"
+            alt="lien vers le site Calculateur de salaire brut en net"
           >
             <FontAwesomeIcon icon={faGlobe} />
           </CardItem>
