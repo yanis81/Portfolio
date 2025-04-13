@@ -51,7 +51,7 @@ export function ThreeDCardDemoP2() {
             href="https://yanis81.github.io/Projet-n2_OC/"
             target="_blank"
             className="px-4 py-2 rounded-xl bg-black dark:bg-white dark:text-black text-white font-bold text-base"
-            alt="lien vers le site Booki"
+            aria-label="Accéder au site Booki"
           >
             <FontAwesomeIcon icon={faGlobe} />
           </CardItem>
@@ -61,7 +61,7 @@ export function ThreeDCardDemoP2() {
             href="https://github.com/yanis81/Projet-n2_OC"
             target="_blank"
             className="px-4 py-2 rounded-xl bg-black dark:bg-white dark:text-black text-white font-bold text-base"
-            alt="lien vers le github Booki"
+            aria-label="Accéder au github Booki"
           >
             <FontAwesomeIcon icon={faGithub} />
           </CardItem>
@@ -113,7 +113,7 @@ export function ThreeDCardDemoP3() {
             href="https://yanis81.github.io/Projet-n3_Publi-/"
             target="_blank"
             className="px-4 py-2 rounded-xl bg-black dark:bg-white dark:text-black text-white font-bold text-base"
-            alt="lien vers le site sophie bluel"
+            aria-label="Accéder au site Sophie Bluel"
           >
             <FontAwesomeIcon icon={faGlobe} />
           </CardItem>
@@ -123,7 +123,7 @@ export function ThreeDCardDemoP3() {
             href="https://github.com/yanis81/Projet-n3_OC"
             target="_blank"
             className="px-4 py-2 rounded-xl bg-black dark:bg-white dark:text-black text-white font-bold text-base"
-            alt="lien vers le github Booki"
+            aria-label="Accéder au github Sophie Bluel"
           >
             <FontAwesomeIcon icon={faGithub} />
           </CardItem>
@@ -174,7 +174,7 @@ export function ThreeDCardDemoP4() {
             href="https://github.com/yanis81/Projet-n4_OC"
             target="_blank"
             className="px-4 py-2 rounded-xl bg-black dark:bg-white dark:text-black text-white font-bold text-base"
-            alt="lien vers le github de Menu Maker by Qwenta"
+            aria-label="Accéder au github Menu Maker by Qwenta"
           >
             <FontAwesomeIcon icon={faGithub} />
           </CardItem>
@@ -226,7 +226,7 @@ export function ThreeDCardDemoP5() {
             href="https://yanis81.github.io/Projet-n5_OC/"
             target="_blank"
             className="px-4 py-2 rounded-xl bg-black dark:bg-white dark:text-black text-white font-bold text-base"
-            alt="lien vers le site Nina carducci"
+            aria-label="Accéder au site Nina Carducci"
           >
             <FontAwesomeIcon icon={faGlobe} />
           </CardItem>
@@ -236,7 +236,7 @@ export function ThreeDCardDemoP5() {
             href="https://github.com/yanis81/Projet-n5_OC"
             target="_blank"
             className="px-4 py-2 rounded-xl bg-black dark:bg-white dark:text-black text-white font-bold text-base"
-            alt="lien vers le github de Nina carducci"
+            aria-label="Accéder au github Nina Carducci"
           >
             <FontAwesomeIcon icon={faGithub} />
           </CardItem>
@@ -288,7 +288,7 @@ export function ThreeDCardDemoP6() {
             href="https://kasa-pearl.vercel.app/accueil"
             target="_blank"
             className="px-4 py-2 rounded-xl bg-black dark:bg-white dark:text-black text-white font-bold text-base"
-            alt="lien vers le site Kasa"
+            aria-label="Accéder au site Kasa"
           >
             <FontAwesomeIcon icon={faGlobe} />
           </CardItem>
@@ -298,7 +298,7 @@ export function ThreeDCardDemoP6() {
             href="https://github.com/yanis81/Projet-n6_OC"
             target="_blank"
             className="px-4 py-2 rounded-xl bg-black dark:bg-white dark:text-black text-white font-bold text-base"
-            alt="lien vers le github de Kasa"
+            aria-label="Accéder au github Kasa"
           >
             <FontAwesomeIcon icon={faGithub} />
           </CardItem>
@@ -349,7 +349,7 @@ export function ThreeDCardDemoP7() {
             href="https://github.com/yanis81/Projet-n7_OC"
             target="_blank"
             className="px-4 py-2 rounded-xl bg-black dark:bg-white dark:text-black text-white font-bold text-base"
-            alt="lien vers le github de mon vieux grimoire"
+            aria-label="accéder vers le github de mon vieux grimoire"
           >
             <FontAwesomeIcon icon={faGithub} />
           </CardItem>
@@ -400,8 +400,7 @@ export function ThreeDCardMangaMania() {
             href="https://manga-mania-theta.vercel.app/"
             target="_blank"
             className="px-4 py-2 rounded-xl bg-black dark:bg-white dark:text-black text-white font-bold text-base"
-            alt="lien vers le site MangaMania"
-          >
+            aria-label="Accéder au site MangaMiana"          >
             <FontAwesomeIcon icon={faGlobe} />
           </CardItem>
         </div>
