@@ -450,7 +450,7 @@ export function ThreeDCardCalculator() {
             href="https://salaire-brut-en-net.vercel.app/"
             target="_blank"
             className="px-4 py-2 rounded-xl bg-black dark:bg-white dark:text-black text-white font-bold text-base"
-            alt="lien vers le site Calculateur de salaire brut en net"
+            aria-label="Accéder au site Calculateur de salaire brut en net"
           >
             <FontAwesomeIcon icon={faGlobe} />
           </CardItem>
