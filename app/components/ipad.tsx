@@ -30,6 +30,7 @@ export function Ipad() {
             className="mx-auto rounded-2xl object-cover h-full object-left-top"
             draggable={false}
             loading="lazy"
+            priority={false}
           />
         </ContainerScroll>
       </div>
