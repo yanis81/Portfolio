@@ -57,6 +57,7 @@ export function CarouselDemo() {
                     <img 
                       src={carousel.image} 
                       alt={carousel.alt} 
+                      loading="lazy"
                       className="max-w-full h-auto object-contain rounded-md  "
                     />
                   </CardContent>
