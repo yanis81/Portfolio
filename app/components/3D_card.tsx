@@ -433,6 +433,7 @@ export function ThreeDCardCalculator() {
             width="1000"
             className="h-60 object-cover rounded-xl group-hover/card:shadow-xl"
             alt="image du site Calculateur de salaire brut à net"
+            loading="lazy"
           />
         </CardItem>
         <div className="flex justify-between items-center mt-20">
