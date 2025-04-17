@@ -1,4 +1,4 @@
 User-agent: *
 Allow: /
 
-Sitemap: https://portfolio-gray-phi-46.vercel.app/sitemap.xml 
+Sitemap: https://yanislartigue.vercel.app//sitemap.xml 
