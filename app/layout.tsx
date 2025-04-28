@@ -15,7 +15,7 @@ export const metadata: Metadata = {
   title: "Yanis LARTIGUE | Développeur Web Full Stack",
   description: "Portfolio de Yanis LARTIGUE, développeur web full stack passionné par les nouvelles technologies. Découvrez mes projets et compétences en développement web.",
   icons: {
-    icon: '/favicon.webp',
+    icon: '/favi.webp',
   },
   keywords: [
     "Yanis LARTIGUE",
