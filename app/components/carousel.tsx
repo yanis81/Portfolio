@@ -10,6 +10,7 @@ import {
   CarouselPrevious,
 } from "./ui/carouselParams";
 import { useLanguage } from "@/app/utils/LanguageContext";
+import Image from "next/image";
 
 export function CarouselDemo() {
   const { t } = useLanguage();
@@ -18,19 +19,19 @@ export function CarouselDemo() {
     {
       id: 1,
       title: t('frontend'),
-      image: `https://raw.githubusercontent.com/yanis81/My-Portfolio/main/app/assets/carteInfinie/frontend.png`,
+      image: '/imageCaroussel/frontend.webp',
       alt: "Mes competences Frontends",
     },
     {
       id: 2,
       title: t('backend'),
-      image: `https://raw.githubusercontent.com/yanis81/My-Portfolio/main/app/assets/carteInfinie/backend.png`,
+      image: '/imageCaroussel/backend.webp',
       alt: "Mes competences Backends",
     },
     {
       id: 3,
       title: t('tools'),
-      image: `https://raw.githubusercontent.com/yanis81/My-Portfolio/main/app/assets/carteInfinie/autres.png`,
+      image: '/imageCaroussel/autres.webp',
       alt: "Mes competences en outils de travails",
     },
   ];
@@ -54,12 +55,14 @@ export function CarouselDemo() {
                     <h3 className="text-black dark:text-white">{carousel.title}</h3>
                   </div>
                   <CardContent className="flex items-center justify-center w-full dark:bg-[#0B0B0F] p-0 md:p-6">
-                    <img 
-                      src={carousel.image} 
-                      alt={carousel.alt} 
-                      loading="lazy"
-                      className="max-w-full h-auto object-contain rounded-md  "
-                    />
+                    <div className="relative w-full h-[300px] sm:h-[400px] md:h-[500px]">
+                      <Image
+                        src={carousel.image}
+                        alt={carousel.alt}
+                        fill
+                        className="object-contain rounded-md"
+                      />
+                    </div>
                   </CardContent>
                 </Card>
               </div>
